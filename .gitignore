@@ -11,6 +11,7 @@ dist/
 dev-dist
 *.tsbuildinfo
 wrangler.toml
+wrangler.jsonc
 imports.app.d.ts
 package-lock.json
 .specstory/
